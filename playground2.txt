@@ -1,0 +1,6 @@
+total 36
+-rw-r--r-- 1 rojo rojo 4716 nov 10 23:04 lista_mp3_2.txt
+-rw-r--r-- 1 rojo rojo 4716 nov 10 23:05 lista_mp3_3.txt
+-rw-r--r-- 1 rojo rojo 4716 nov 10 23:03 lista_mp3.txt
+-rw-r--r-- 1 rojo rojo 4716 nov 10 23:02 of.lista_mp3.txt
+-rw-r--r-- 1 rojo rojo  292 nov 11 12:18 playground.txt
